@@ -3,7 +3,8 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      test
+      {/* MDInput: input text area for markdown */}
+      {/* MDPreview: display are for parsed markdown */}
     </div>
   );
 }

@@ -1,1 +1,36 @@
+.app {
+  background-image: url('../assets/adam.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
+.content__container {
+  width: 70%;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.editor {
+  margin-bottom: 1rem;
+}
+
+.editor__text-area {
+  min-height: 30vh;
+  width: 100%;
+}
+
+.previewer__text-area {
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+img {
+  width: 2rem;
+  height: 2rem;
+  vertical-align: middle;
+}
